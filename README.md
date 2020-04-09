@@ -3,7 +3,6 @@
 ##############__HW3 In Course: Distributed and parallel computing__##############
 
 Made by: Tamir Reznik 
-	I.D: 308346170
 
 Brief:
 ------
