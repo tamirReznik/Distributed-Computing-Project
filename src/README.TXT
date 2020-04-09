@@ -3,6 +3,14 @@
 Made by: Tamir Reznik 
 	I.D: 308346170
 
+Brief:
+------
+		In this project I was given a code that performs a complicated and long calculation (see heavy method)
+		The sequential.c file can be treated as the skeleton file
+		The main task is to divide the task into sub-tasks that will be done in parallel processing by two different algorithms:
+		- Static --> distributing sub tasks before running the code
+		- Dynamic --> distributing sub tasks in runtime
+
 whats in project: 
 
 6 files: 
