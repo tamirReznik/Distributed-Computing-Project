@@ -1,4 +1,4 @@
-# distributed-computing-hw-projects
+# Distributed Computing Project
 #__HW3 In Course: Distributed and parallel computing__#
 
 Made by: Tamir Reznik 
